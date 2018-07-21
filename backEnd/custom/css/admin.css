@@ -1,0 +1,85 @@
+body {
+    font-weight: 400;
+}
+
+.colorPrimary {
+    color: #6610f2;
+}
+
+.colorSeconday {
+    color: #6610f2;
+}
+
+.page-login-v3 .panel {
+    width: 420px;
+}
+
+.navbar-laravel {
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.invalid-feedback-error {
+    width: 100%;
+    margin-top: .25rem;
+    font-size: 80%;
+    color: #dc3545;
+}
+
+.table td, .table th {
+    vertical-align: middle;
+}
+
+.popupButton {
+    margin: 0 10px 40px 0;
+    position: fixed;
+    z-index: 1500;
+    bottom: 0;
+    right: 0;
+}
+
+.page-title h1 {
+    display: inline;
+    font-size: 22px;
+}
+
+.page-title .fontawesome {
+    color: #36459b;
+    font-size: 22px;
+}
+
+.delete_all {
+    color: #36459b;
+    font-size: 16px;
+}
+
+.delete_all:hover {
+    color: #F44336;
+}
+
+.form-warning {
+    color: #36459b !important;
+}
+.btn-group .dropdown-menu{
+    background: rgba(56, 172, 54, 0.8);
+}
+.btn-group .dropdown-menu a{
+    color: #0b0b0b;
+    text-decoration: none;
+    font-weight: normal;
+}
+.btn-group .dropdown-menu a:hover{
+    background: rgb(56, 172, 54);
+}
+
+#widgetUserList .card-header .overlay-background {
+    background-color: rgba(255, 152, 0, .8) !important;
+}
+
+.col-form-label {
+    font-weight: 400;
+}
+
+.col-form-label sup {
+    color: #F44336;
+}
